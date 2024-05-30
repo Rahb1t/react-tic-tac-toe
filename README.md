@@ -2,7 +2,7 @@
 
 Simple tic tac toe game that implements useState() and localStorage
 
-It can simply be installed running:
+It can be installed and run with the following commands:
 
 - git clone
 - cd react-tic-tac-toe
