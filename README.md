@@ -7,4 +7,4 @@ It can be installed and run with the following commands:
 - git clone
 - cd react-tic-tac-toe
 - npm install
-- npm run dev
+- npm run game
